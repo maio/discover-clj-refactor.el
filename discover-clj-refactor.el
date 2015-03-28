@@ -4,7 +4,6 @@
 ;;
 ;; Author: Marian Schubert <marian.schubert@gmail.com>
 ;; Keywords: clj-refactor discover convenience
-;; Package: discover-clj-refactor
 ;; Package-Requires: ((clj-refactor "20150318.225") (discover "20140103.1339"))
 
 ;; Version: 0.1
